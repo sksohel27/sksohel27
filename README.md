@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Banner -->
-<img src="https://raw.githubusercontent.com/sksohel27/sksohel27/main/Untitled%20video%20-%20Made%20with%20Clipchamp.gif" alt="Sk Sohel" style="width:100%; max-width:900px; border-radius:18px; object-fit:cover; box-shadow: 0 14px 40px rgba(0,217,255,0.16);" />
+<!-- Banner GIF -->
+<img src="https://raw.githubusercontent.com/sksohel27/sksohel27/main/Untitled%20video%20-%20Made%20with%20Clipchamp.gif" alt="Sk Sohel Banner" style="width:100%; max-width:1200px; height:400px; object-fit:cover; border-radius:18px; box-shadow: 0 14px 40px rgba(0,217,255,0.16);" />
 
 <br/><br/>
 
@@ -37,13 +37,13 @@
     <hr style="border:none; height:1px; background:rgba(0,217,255,0.12); margin:12px 0;" />
 
     <h4 style="margin:4px 0;">🔭 <strong>Currently Exploring</strong></h4>
-    <p style="margin:6px 0 12px 0;">
+    <p style="margin:6px 0 12px 0; text-align: center;">
       <img src="https://img.shields.io/badge/Deep_Learning-TensorFlow-00D9FF?style=for-the-badge&logo=tensorflow" />
-      <img src="https://img.shields.io/badge/Deep_Learning-PyTorch-00D9FF?style=for-the-badge&logo=pytorch" />
+      <img src="https://img.shields.io/badge/Deep_Learning-PyTorch-00D9FF?style=for-the-badge&logo=pytorch" /><br/>
       <img src="https://img.shields.io/badge/Transformers-HuggingFace-00D9FF?style=for-the-badge&logo=huggingface" />
-      <img src="https://img.shields.io/badge/Vision_Transformers-ViT-00D9FF?style=for-the-badge&logo=opencv" /><br/>
-      <img src="https://img.shields.io/badge/Object_Detection-YOLOv8-00D9FF?style=for-the-badge&logo=github" />
-      <img src="https://img.shields.io/badge/Dataset_Creation-Real%20%2B%20Synthetic-00D9FF?style=for-the-badge&logo=databricks" /><br/>
+      <img src="https://img.shields.io/badge/Vision_Transformers-ViT-00D9FF?style=for-the-badge&logo=transformers" /><br/>
+      <img src="https://img.shields.io/badge/Object_Detection-YOLOv8-00D9FF?style=for-the-badge&logo=yolo" />
+      <img src="https://img.shields.io/badge/Dataset_Creation-Real%2B%20Synthetic-00D9FF?style=for-the-badge&logo=label-studio" /><br/>
       <img src="https://img.shields.io/badge/Big_Data-Hadoop-00D9FF?style=for-the-badge&logo=apachehadoop" />
       <img src="https://img.shields.io/badge/Big_Data-Apache_Spark-00D9FF?style=for-the-badge&logo=apachespark" />
       <img src="https://img.shields.io/badge/Streaming-Apache_Kafka-00D9FF?style=for-the-badge&logo=apachekafka" /><br/>
