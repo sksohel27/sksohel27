@@ -22,33 +22,48 @@
   <img src="https://img.shields.io/badge/Pronouns-he%2Fhim-00D9FF?style=for-the-badge" />
 </p>
 
----
+</div>
 
-# 🛠️ **Tech Stack & Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,keras,sklearn,pandas,numpy,matplotlib,fastapi,streamlit,docker,aws,git,linux,kubernetes,hadoop,spark,huggingface,postgres,mongodb,mysql,java,c,cpp,vscode,postman&perline=10&theme=dark" />
-</p>
+<!-- Two-column section: Tech stack (left) + GIF (right) -->
+<div style="display:flex; gap:28px; align-items:flex-start; justify-content:center; flex-wrap:wrap; margin: 18px 0;">
 
----
+  <!-- Left column: Tech Stack & Tools -->
+  <div style="flex: 1 1 520px; max-width:620px; min-width:300px;">
+    <h3 style="margin-bottom:6px;">🛠️ <strong>Tech Stack & Tools</strong></h3>
+    <p>
+      <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,keras,sklearn,pandas,numpy,matplotlib,fastapi,streamlit,docker,aws,git,linux,kubernetes,hadoop,spark,huggingface,postgres,mongodb,mysql,java,c,cpp,vscode,postman&perline=10&theme=dark" alt="tech icons" />
+    </p>
 
-# 🔭 **Currently Exploring**
-<p>
-  <img src="https://img.shields.io/badge/Deep_Learning-TensorFlow-00D9FF?style=for-the-badge&logo=tensorflow" />
-  <img src="https://img.shields.io/badge/Deep_Learning-PyTorch-00D9FF?style=for-the-badge&logo=pytorch" />
-  <img src="https://img.shields.io/badge/Transformers-HuggingFace-00D9FF?style=for-the-badge&logo=huggingface" />
-  <img src="https://img.shields.io/badge/Vision_Transformers-ViT-00D9FF?style=for-the-badge&logo=opencv" /><br/>
-  <img src="https://img.shields.io/badge/Object_Detection-YOLOv8-00D9FF?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Dataset_Creation-Real%20%2B%20Synthetic-00D9FF?style=for-the-badge&logo=databricks" /><br/>
-  <img src="https://img.shields.io/badge/Big_Data-Hadoop-00D9FF?style=for-the-badge&logo=apachehadoop" />
-  <img src="https://img.shields.io/badge/Big_Data-Apache_Spark-00D9FF?style=for-the-badge&logo=apachespark" />
-  <img src="https://img.shields.io/badge/Streaming-Apache_Kafka-00D9FF?style=for-the-badge&logo=apachekafka" /><br/>
-  <img src="https://img.shields.io/badge/Federated_Learning-Flower-00D9FF?style=for-the-badge&logo=flower" />
-  <img src="https://img.shields.io/badge/TF-Federated-00D9FF?style=for-the-badge&logo=tensorflow" /><br/>
-  <img src="https://img.shields.io/badge/MLOps-Docker-00D9FF?style=for-the-badge&logo=docker" />
-  <img src="https://img.shields.io/badge/Orchestration-Kubernetes-00D9FF?style=for-the-badge&logo=kubernetes" />
-  <img src="https://img.shields.io/badge/Tracking-MLflow-00D9FF?style=for-the-badge&logo=mlflow" />
-  <img src="https://img.shields.io/badge/Data_Versioning-DVC-00D9FF?style=for-the-badge&logo=dvc" />
-</p>
+    <hr style="border:none; height:1px; background:rgba(0,217,255,0.12); margin:12px 0;" />
+
+    <h4 style="margin:4px 0;">🔭 <strong>Currently Exploring</strong></h4>
+    <p style="margin:6px 0 12px 0;">
+      <img src="https://img.shields.io/badge/Deep_Learning-TensorFlow-00D9FF?style=for-the-badge&logo=tensorflow" />
+      <img src="https://img.shields.io/badge/Deep_Learning-PyTorch-00D9FF?style=for-the-badge&logo=pytorch" />
+      <img src="https://img.shields.io/badge/Transformers-HuggingFace-00D9FF?style=for-the-badge&logo=huggingface" />
+      <img src="https://img.shields.io/badge/Vision_Transformers-ViT-00D9FF?style=for-the-badge&logo=opencv" /><br/>
+      <img src="https://img.shields.io/badge/Object_Detection-YOLOv8-00D9FF?style=for-the-badge&logo=github" />
+      <img src="https://img.shields.io/badge/Dataset_Creation-Real%20%2B%20Synthetic-00D9FF?style=for-the-badge&logo=databricks" /><br/>
+      <img src="https://img.shields.io/badge/Big_Data-Hadoop-00D9FF?style=for-the-badge&logo=apachehadoop" />
+      <img src="https://img.shields.io/badge/Big_Data-Apache_Spark-00D9FF?style=for-the-badge&logo=apachespark" />
+      <img src="https://img.shields.io/badge/Streaming-Apache_Kafka-00D9FF?style=for-the-badge&logo=apachekafka" /><br/>
+      <img src="https://img.shields.io/badge/Federated_Learning-Flower-00D9FF?style=for-the-badge&logo=flower" />
+      <img src="https://img.shields.io/badge/TF-Federated-00D9FF?style=for-the-badge&logo=tensorflow" /><br/>
+      <img src="https://img.shields.io/badge/MLOps-Docker-00D9FF?style=for-the-badge&logo=docker" />
+      <img src="https://img.shields.io/badge/Orchestration-Kubernetes-00D9FF?style=for-the-badge&logo=kubernetes" />
+      <img src="https://img.shields.io/badge/Tracking-MLflow-00D9FF?style=for-the-badge&logo=mlflow" />
+      <img src="https://img.shields.io/badge/Data_Versioning-DVC-00D9FF?style=for-the-badge&logo=dvc" />
+    </p>
+  </div>
+
+  <!-- Right column: GIF -->
+  <div style="flex: 0 1 320px; min-width:220px; display:flex; align-items:center; justify-content:center;">
+    <div style="border-radius:12px; overflow:hidden; box-shadow: 0 12px 30px rgba(0,0,0,0.12);">
+      <img src="https://raw.githubusercontent.com/sksohel27/sksohel27/main/Untitled%20video%20-%20Made%20with%20Clipchamp.gif" alt="Clipchamp GIF" style="display:block; width:320px; max-width:80vw; height:auto;"/>
+    </div>
+  </div>
+
+</div>
 
 ---
 
@@ -77,12 +92,8 @@
 ---
 
 # 👀 Profile Views
-<img src="https://komarev.com/ghpvc/?username=sksohel27&label=Profile%20Views&color=00D9FF&style=for-the-badge" />
+<p align="center"><img src="https://komarev.com/ghpvc/?username=sksohel27&label=Profile%20Views&color=00D9FF&style=for-the-badge" /></p>
 
 ---
 
-<br/>
-
-### ❤️ Built with Passion & ☕ — Let's build the future together.
-
-</div>
+<p align="center">❤️ Built with Passion & ☕ — Let's build the future together.</p>
