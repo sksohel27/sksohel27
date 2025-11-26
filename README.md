@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- MAX SIZE Banner – Neon Border -->
+<!-- MAX SIZE Banner with your new color theme -->
 <img src="https://github.com/sksohel27/sksohel27/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp.gif?raw=true"
      alt="Sk Sohel - AI/ML Engineer"
      style="width:100%; max-width:1800px !important; border-radius:28px; object-fit:cover; 
@@ -15,12 +15,12 @@
 
 <br/>
 
-<!-- Live Typing – Now in Deep Dark Blue only -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=29&duration=3500&pause=800&color=1E0047&background=0B0B2D00&center=true&vCenter=true&width=1000&lines=YOLOv8+Multi-Task+94%25+mAP;Federated+Learning+with+Flower;Behavioral+Biometrics+Authentication;Real%2BSynthetic+Data+Generation;Deploying+Production-Ready+AI!" />
+<!-- Live Typing – Neon Purple → Magenta → Cyan -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=29&duration=3500&pause=800&color=D600FF&background=0B0B2D00&center=true&vCenter=true&multiline=false&width=1000&lines=YOLOv8+Multi-Task+94%25+mAP;Federated+Learning+with+Flower;Behavioral+Biometrics+Auth;Real%2BSynthetic+Data+Pipeline;Deploying+AI+at+Scale!" />
 
 <br/><br/>
 
-<!-- Status Badges – Neon Theme -->
+<!-- Status Badges – New Color Theme -->
 <p>
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-D600FF?style=for-the-badge&logo=rocket&logoColor=white" />
   <img src="https://img.shields.io/badge/Location-Dankuni%2C%20West%20Bengal-8A2BE2?style=for-the-badge&logo=location&logoColor=white" />
