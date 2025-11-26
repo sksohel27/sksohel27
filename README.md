@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="https://raw.githubusercontent.com/sksohel27/sksohel27/main/Picsart_25-11-26_21-40-55-117.jpg" alt="Sk Sohel" style="width:100%; max-width:900px; border-radius:18px; object-fit:cover; box-shadow: 0 14px 40px rgba(0,217,255,0.16);" />
+<img src="https://raw.githubusercontent.com/sksohel27/sksohel27/main/Untitled%20video%20-%20Made%20with%20Clipchamp.gif" alt="Sk Sohel" style="width:100%; max-width:900px; border-radius:18px; object-fit:cover; box-shadow: 0 14px 40px rgba(0,217,255,0.16);" />
 
 <br/><br/>
 
@@ -24,10 +24,10 @@
 
 </div>
 
-<!-- Two-column section: Tech stack (left) + GIF (right) -->
+<!-- Single column: Tech Stack -->
 <div style="display:flex; gap:28px; align-items:flex-start; justify-content:center; flex-wrap:wrap; margin: 18px 0;">
 
-  <!-- Left column: Tech Stack & Tools -->
+  <!-- Tech Stack & Tools -->
   <div style="flex: 1 1 520px; max-width:620px; min-width:300px;">
     <h3 style="margin-bottom:6px;">🛠️ <strong>Tech Stack & Tools</strong></h3>
     <p>
@@ -54,13 +54,6 @@
       <img src="https://img.shields.io/badge/Tracking-MLflow-00D9FF?style=for-the-badge&logo=mlflow" />
       <img src="https://img.shields.io/badge/Data_Versioning-DVC-00D9FF?style=for-the-badge&logo=dvc" />
     </p>
-  </div>
-
-  <!-- Right column: GIF -->
-  <div style="flex: 0 1 320px; min-width:220px; display:flex; align-items:center; justify-content:center;">
-    <div style="border-radius:12px; overflow:hidden; box-shadow: 0 12px 30px rgba(0,0,0,0.12);">
-      <img src="https://raw.githubusercontent.com/sksohel27/sksohel27/main/Untitled%20video%20-%20Made%20with%20Clipchamp.gif" alt="Clipchamp GIF" style="display:block; width:320px; max-width:80vw; height:auto;"/>
-    </div>
   </div>
 
 </div>
