@@ -10,17 +10,17 @@
 
 <br/>
 
-<!-- GitHub Stats + Top Languages -->
+<!-- GitHub Stats + Top Languages (Fixed: Using Dark Theme for Reliability) -->
 <table>
   <tr>
-    <td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=sksohel27&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&border_radius=12" alt="Stats"/></td>
-    <td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sksohel27&layout=compact&theme=radical&hide_border=true&border_radius=12" alt="Languages"/></td>
+    <td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=sksohel27&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&border_radius=12" alt="GitHub Stats"/></td>
+    <td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sksohel27&layout=compact&theme=dark&hide_border=true&border_radius=12" alt="Top Languages"/></td>
   </tr>
 </table>
 
 <!-- Streak + Trophies -->
-<img src="https://streak-stats.demolab.com?user=sksohel27&theme=radical&hide_border=true&border_radius=12"/>
-<img src="https://github-profile-trophy.vercel.app/?username=sksohel27&theme=radical&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true"/>
+<img src="https://streak-stats.demolab.com?user=sksohel27&theme=dark&hide_border=true&border_radius=12"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sksohel27&theme=dark&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true"/>
 
 <br/>
 
@@ -61,7 +61,7 @@
   <img src="https://img.shields.io/badge/Instagram_Main-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 <a href="https://instagram.com/_p_i._.c_k_u._.og_ra_phy_" target="_blank">
-  <img src="https://img.shields.io/badge/Photography@_p_i.c_k_u.og_ra_phy-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Photography-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 <a href="https://drive.google.com/file/d/1J1V6vbuooman9c5WBrB3tK4vkvtcSgYk/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/Resume-00D9FF?style=for-the-badge&logo=googledrive&logoColor=white"/>
@@ -83,11 +83,11 @@ District-level Swimming Champion • CSE Football Team Captain – I bring champ
 
 <br/><br/>
 
-<!-- Snake -->
+<!-- Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sksohel27/sksohel27/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sksohel27/sksohel27/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake" src="https://raw.githubusercontent.com/sksohel27/sksohel27/output/github-contribution-grid-snake-dark.svg" style="max-width:100%;"/>
+  <img alt="github snake" src="https://raw.githubusercontent.com/sksohel27/sksohel27/output/github-contribution-grid-snake-dark.svg" style="max-width:100%;"/>
 </picture>
 
 <br/>
