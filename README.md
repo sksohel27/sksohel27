@@ -41,13 +41,13 @@
       <img src="https://img.shields.io/badge/Deep_Learning-TensorFlow-00D9FF?style=for-the-badge&logo=tensorflow" />
       <img src="https://img.shields.io/badge/Deep_Learning-PyTorch-00D9FF?style=for-the-badge&logo=pytorch" /><br/>
       <img src="https://img.shields.io/badge/Transformers-HuggingFace-00D9FF?style=for-the-badge&logo=huggingface" />
-      <img src="https://img.shields.io/badge/Vision_Transformers-ViT-00D9FF?style=for-the-badge&logo=transformers" /><br/>
+      <img src="https://img.shields.io/badge/Vision_Transformers-ViT-00D9FF?style=for-the-badge&logo=huggingface" /><br/>
       <img src="https://img.shields.io/badge/Object_Detection-YOLOv8-00D9FF?style=for-the-badge&logo=yolo" />
       <img src="https://img.shields.io/badge/Dataset_Creation-Real%2B%20Synthetic-00D9FF?style=for-the-badge&logo=label-studio" /><br/>
       <img src="https://img.shields.io/badge/Big_Data-Hadoop-00D9FF?style=for-the-badge&logo=apachehadoop" />
       <img src="https://img.shields.io/badge/Big_Data-Apache_Spark-00D9FF?style=for-the-badge&logo=apachespark" />
       <img src="https://img.shields.io/badge/Streaming-Apache_Kafka-00D9FF?style=for-the-badge&logo=apachekafka" /><br/>
-      <img src="https://img.shields.io/badge/Federated_Learning-Flower-00D9FF?style=for-the-badge&logo=flower" />
+      <img src="https://img.shields.io/badge/Federated_Learning-Flower-00D9FF?style=for-the-badge&logo=python" />
       <img src="https://img.shields.io/badge/TF-Federated-00D9FF?style=for-the-badge&logo=tensorflow" /><br/>
       <img src="https://img.shields.io/badge/MLOps-Docker-00D9FF?style=for-the-badge&logo=docker" />
       <img src="https://img.shields.io/badge/Orchestration-Kubernetes-00D9FF?style=for-the-badge&logo=kubernetes" />
