@@ -1,30 +1,31 @@
 <div align="center">
 
-<!-- Animated GIF Banner -->
-<img src="https://github.com/sksohel27/sksohel27/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp.gif?raw=true" alt="Sk Sohel - Banner" style="width:100%; max-width:1100px; border-radius:18px; object-fit:cover; box-shadow: 0 14px 40px rgba(0,217,255,0.16);" />
+<!-- Bigger & Bolder Animated GIF Banner -->
+<img src="https://github.com/sksohel27/sksohel27/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp.gif?raw=true" alt="Sk Sohel - AI/ML Engineer" style="width:100%; max-width:1400px; border-radius:22px; object-fit:cover; box-shadow: 0 20px 50px rgba(0,217,255,0.25); border: 3px solid #00D9FF;" />
 
 <br/><br/>
 
 # Hi, I'm <span style="color:#00D9FF">Sk Sohel</span> 👋
 ### Aspiring AI/ML Engineer • Deep Learning • Computer Vision • MLOps
+
 <br/>
 
-<!-- Live Typing -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=820&lines=YOLOv8+Multi-Task+Learning+94%25;Federated+Learning+%F0%9F%8C%A8+Flower;Behavioral+Biometrics+Research;Always+learning,+always+building!" />
+<!-- Live Typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=YOLOv8+Multi-Task+Learning+94%25;Federated+Learning+with+Flower;Behavioral+Biometrics+Research;Building+the+future+of+AI!" />
 
 <br/><br/>
 
 <!-- Status Badges -->
 <p>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00D9FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Dankuni%2C%20West%20Bengal-00D9FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Pronouns-he%2Fhim-00D9FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00D9FF?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Dankuni%2C%20West%20Bengal-00D9FF?style=for-the-badge&logo=map&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pronouns-he%2Fhim-00D9FF?style=for-the-badge&logo=prisma&logoColor=white" />
 </p>
 
 ---
 # 🛠️ **Tech Stack & Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,keras,sklearn,pandas,numpy,matplotlib,fastapi,streamlit,docker,aws,git,linux,kubernetes,hadoop,spark,huggingface,postgres,mongodb,mysql,java,c,cpp,vscode,postman&perline=10&theme=dark" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,keras,sklearn,pandas,numpy,matplotlib,fastapi,streamlit,docker,aws,git,linux,kubernetes,hadoop,spark,huggingface,postgres,mongodb,mysql,java,c,cpp,vscode,postman&perline=11&theme=dark" />
 </p>
 
 ---
@@ -34,28 +35,45 @@
   <img src="https://img.shields.io/badge/Deep_Learning-PyTorch-00D9FF?style=for-the-badge&logo=pytorch" />
   <img src="https://img.shields.io/badge/Transformers-HuggingFace-00D9FF?style=for-the-badge&logo=huggingface" />
   <img src="https://img.shields.io/badge/Vision_Transformers-ViT-00D9FF?style=for-the-badge&logo=opencv" /><br/>
-  <img src="https://img.shields.io/badge/Object_Detection-YOLOv8-00D9FF?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Dataset_Creation-Real%20%2B%20Synthetic-00D9FF?style=for-the-badge&logo=databricks" /><br/>
-  <img src="https://img.shields.io/badge/Big_Data-Hadoop-00D9FF?style=for-the-badge&logo=apachehadoop" />
-  <img src="https://img.shields.io/badge/Big_Data-Apache_Spark-00D9FF?style=for-the-badge&logo=apachespark" />
-  <img src="https://img.shields.io/badge/Streaming-Apache_Kafka-00D9FF?style=for-the-badge&logo=apachekafka" /><br/>
+  <img src="https://img.shields.io/badge/YOLOv8-Ultralytics-00D9FF?style=for-the-badge&logo=yolo" />
   <img src="https://img.shields.io/badge/Federated_Learning-Flower-00D9FF?style=for-the-badge&logo=flower" />
-  <img src="https://img.shields.io/badge/TF-Federated-00D9FF?style=for-the-badge&logo=tensorflow" /><br/>
-  <img src="https://img.shields.io/badge/MLOps-Docker-00D9FF?style=for-the-badge&logo=docker" />
-  <img src="https://img.shields.io/badge/Orchestration-Kubernetes-00D9FF?style=for-the-badge&logo=kubernetes" />
-  <img src="https://img.shields.io/badge/Tracking-MLflow-00D9FF?style=for-the-badge&logo=mlflow" />
-  <img src="https://img.shields.io/badge/Data_Versioning-DVC-00D9FF?style=for-the-badge&logo=dvc" />
+  <img src="https://img.shields.io/badge/MLOps-MLflow%20%7C%20DVC-00D9FF?style=for-the-badge&logo=mlflow" />
 </p>
 
 ---
-# 🏆 **Achievements**
-<div style="font-size: 18px; line-height: 1.8;">
-🥇 **Top 12 — COMSYS Hackathon (IIT Mandi)**  
-🏅 **Top 15 — Smart India Hackathon 2023**  
-🌏 **90.6% — China Exchange Program**  
-🏊 **District-level Swimming Champion**  
-⚽ **CSE Football Team Captain**
-</div>
+# 🏆 **Notable Achievements**
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <h3><span style="font-size:42px;">1st Place</span></h3>
+      <b>Top 12 — COMSYS Hackathon</b><br><small>IIT Mandi</small>
+    </td>
+    <td align="center" width="33%">
+      <h3><span style="font-size:42px;">15th Place</span></h3>
+      <b>Smart India Hackathon 2023</b><br><small>National Level</small>
+    </td>
+    <td align="center" width="33%">
+      <h3><span style="font-size:42px;">90.6%</span></h3>
+      <b>China Exchange Program</b><br><small>International Selection</small>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3><span style="font-size:42px;">Swimming</span></h3>
+      <b>District-level Champion</b>
+    </td>
+    <td align="center">
+      <h3><span style="font-size:42px;">Captain</span></h3>
+      <b>CSE Football Team</b><br><small>College Leadership</small>
+    </td>
+    <td align="center">
+      <!-- Empty for spacing -->
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 ---
 # 🤝 **Connect With Me**
@@ -72,5 +90,6 @@
 <img src="https://komarev.com/ghpvc/?username=sksohel27&label=Profile%20Views&color=00D9FF&style=for-the-badge" />
 
 <br/>
-### ❤️ Built with Passion & ☕ — Let's build the future together.
+<h3>❤️ Built with Passion & ☕ — Let's build intelligent systems together!</h3>
+
 </div>
