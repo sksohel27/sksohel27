@@ -4,18 +4,6 @@
 <br/>
 <h1 align="center">Hi, I'm <span style="color:#00D9FF">Sk Sohel</span> 👋</h1>
 <h3 align="center">Aspiring AI/ML Engineer • Deep Learning & Computer Vision • Building Real-World Intelligent Systems</h3>
-
-<!-- GitHub Stats -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sksohel27&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&hide=stars,prs&cache_seconds=1800" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sksohel27&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8&cache_seconds=1800" alt="Top Languages" width="40%"/>
-</div>
-
-<!-- GitHub Trophy -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sksohel27&theme=radical&no-bg=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophy" />
-</div>
-
 <!-- Live typing -->
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=820&lines=YOLOv8+Multi-Task+Learning+94%25;Federated+Learning+%F0%9F%8C%A8+Flower;Behavioral+Biometrics+Research;Always+learning,+always+building!" alt="Typing SVG"/>
@@ -78,3 +66,4 @@
 ---
 <p align="center">Built with ❤️ & ☕ — Let's build the future together.</p>
 </div>
+ 
