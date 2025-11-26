@@ -1,4 +1,7 @@
 # Hi 👋, I'm Sk Sohel
+
+![Header Image](https://raw.githubusercontent.com/sksohel27/sksohel27/main/Screenshot_20251126_200720_Instagram.jpg)
+
 ## 🚀 A Aspiring AI/ML Engineer | Deep Learning & Computer Vision | Crafting Intelligent Real-World Systems
 
 ---
@@ -7,7 +10,7 @@
 - 🔒 **Federated Learning** (Flower, TensorFlow Federated)
 - 🎯 **Advanced Multi-Task Learning**
 - ⚙️ **MLOps Mastery**
-https://github.com/sksohel27/sksohel27/blob/main/README.md
+
 ### 🤝 **Open to Collab On**
 - 🔒 Federated Learning Experiments
 - 🎯 Multi-Task Learning Frameworks
@@ -59,4 +62,21 @@ Explore my repo of cutting-edge AI/ML builds: [github.com/sksohel27](https://git
 
 ---
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sksohel27&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sksohel27&layout=compact&theme=tokyonight" width="42%" />
+</div>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sksohel27&theme=tokyonight)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sksohel27&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Profile views](https://komarev.com/ghpvc/?username=sksohel27&label=Profile%20views&color=0e75b6&style=flat)
+
+![snake](https://raw.githubusercontent.com/sksohel27/sksohel27/output/github-contribution-grid-snake-dark.svg)
+
+---
+
 *🔥 Built with passion, powered by code. Let's build the future together!*
+
+---
