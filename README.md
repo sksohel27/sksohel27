@@ -22,8 +22,9 @@
 
 <!-- Skill badges -->
 <p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,keras,sklearn,pandas,numpy,matplotlib,fastapi,streamlit,docker,aws,git&perline=7&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,keras,sklearn,pandas,numpy,matplotlib,fastapi,streamlit,docker,aws,git,linux,kubernetes,hadoop,spark,huggingface,postgres,mongodb,mysql,java,c,cpp,vscode,postman&perline=10&theme=dark" />
 </p>
+
 
 ---
 
