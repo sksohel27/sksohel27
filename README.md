@@ -29,9 +29,33 @@
 
 ## 🔭 Currently Diving Into
 <p>
-  <img src="https://img.shields.io/badge/Deep_Learning-Technologies-00D9FF?style=for-the-badge&logo=pytorch" />
-  <img src="https://img.shields.io/badge/Computer_Vision-OpenCV%20•%20YOLOv8-00D9FF?style=for-the-badge&logo=opencv" />
-  <img src="https://img.shields.io/badge/Dataset_Creation-Real+Synthetic-00D9FF?style=for-the-badge" />
+  <!-- Deep Learning Core -->
+  <img src="https://img.shields.io/badge/Deep_Learning-TensorFlow-00D9FF?style=for-the-badge&logo=tensorflow" />
+  <img src="https://img.shields.io/badge/Deep_Learning-PyTorch-00D9FF?style=for-the-badge&logo=pytorch" />
+  <img src="https://img.shields.io/badge/Transformers-HuggingFace-00D9FF?style=for-the-badge&logo=huggingface" />
+  <img src="https://img.shields.io/badge/Vision_Transformers-ViT-00D9FF?style=for-the-badge&logo=opencv" />
+
+  <!-- Computer Vision -->
+  <img src="https://img.shields.io/badge/Computer_Vision-OpenCV-00D9FF?style=for-the-badge&logo=opencv" />
+  <img src="https://img.shields.io/badge/Object_Detection-YOLOv8-00D9FF?style=for-the-badge&logo=github" />
+
+  <!-- Dataset Creation -->
+  <img src="https://img.shields.io/badge/Dataset_Creation-Real%20%2B%20Synthetic-00D9FF?style=for-the-badge&logo=databricks" />
+
+  <!-- Big Data -->
+  <img src="https://img.shields.io/badge/Big_Data-Hadoop-00D9FF?style=for-the-badge&logo=apachehadoop" />
+  <img src="https://img.shields.io/badge/Big_Data-Apache_Spark-00D9FF?style=for-the-badge&logo=apachespark" />
+  <img src="https://img.shields.io/badge/Streaming-Apache_Kafka-00D9FF?style=for-the-badge&logo=apachekafka" />
+
+  <!-- Federated Learning / Privacy -->
+  <img src="https://img.shields.io/badge/Federated-Learning%20%7C%20Flower-00D9FF?style=for-the-badge&logo=flower" />
+  <img src="https://img.shields.io/badge/TF-Federated-00D9FF?style=for-the-badge&logo=tensorflow" />
+
+  <!-- MLOps & Tools -->
+  <img src="https://img.shields.io/badge/MLOps-Docker-00D9FF?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/Orchestration-Kubernetes-00D9FF?style=for-the-badge&logo=kubernetes" />
+  <img src="https://img.shields.io/badge/Tracking-MLflow-00D9FF?style=for-the-badge&logo=mlflow" />
+  <img src="https://img.shields.io/badge/Data_Versioning-DVC-00D9FF?style=for-the-badge&logo=dvc" />
 </p>
 
 ---
