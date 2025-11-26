@@ -8,7 +8,8 @@
 ### Aspiring AI/ML Engineer • Deep Learning & Computer Vision • Building Real-World Intelligent Systems
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=YOLOv8+Multi-Task+Learning+94%25;Federated+Learning+Flower+%E2%9C%A8;Behavioral+Biometrics+Research;Trying to be Better; Always+learning%2C+always+building!" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=YOLOv8+Multi-Task+Learning+94%25;Federated+Learning+Flower+%E2%9C%A8;Behavioral+Biometrics+Research;Trying+to+be+Better;Always+learning%2C+always+building%21" alt="Typing SVG"/>
+
 
 ### Currently Diving Into
 <img src="https://img.shields.io/badge/Federated_Learning-Flower%20•%20TF_Federated-00D9FF?style=for-the-badge&logo=tensorflow"/>
