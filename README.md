@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="https://raw.githubusercontent.com/sksohel27/sksohel27/main/Screenshot_20251126_200720_Instagram.jpg" alt="Sk Sohel" style="width:100%; max-width:900px; border-radius:18px; object-fit:cover; box-shadow: 0 14px 40px rgba(0,217,255,0.16);" />
+<img src="https://raw.githubusercontent.com/sksohel27/sksohel27/main/Screenshot_20251126_212234_Instagram.jpg" alt="Sk Sohel" style="width:100%; max-width:900px; border-radius:18px; object-fit:cover; box-shadow: 0 14px 40px rgba(0,217,255,0.16);" />
 
 <br/><br/>
 
@@ -53,11 +53,15 @@
 ---
 
 # 🏆 **Achievements**
-- 🥇 **Top 12 — COMSYS Hackathon (IIT Mandi)**
-- 🏅 **Top 15 — Smart India Hackathon 2023**
-- 🌏 **90.6% — China Exchange Program**
-- 🏊 **District-level Swimming Champion**
-- ⚽ **CSE Football Team Captain**
+<div style="font-size: 18px; line-height: 1.8;">
+
+🥇 **Top 12 — COMSYS Hackathon (IIT Mandi)**  
+🏅 **Top 15 — Smart India Hackathon 2023**  
+🌏 **90.6% — China Exchange Program**  
+🏊 **District-level Swimming Champion**  
+⚽ **CSE Football Team Captain**
+
+</div>
 
 ---
 
