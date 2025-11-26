@@ -1,13 +1,12 @@
 <div align="center">
 
-<!-- Banner -->
-<img src="https://raw.githubusercontent.com/sksohel27/sksohel27/main/Screenshot_20251126_212234_Instagram.jpg" alt="Sk Sohel" style="width:100%; max-width:900px; border-radius:18px; object-fit:cover; box-shadow: 0 14px 40px rgba(0,217,255,0.16);" />
+<!-- Animated GIF Banner -->
+<img src="https://github.com/sksohel27/sksohel27/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp.gif?raw=true" alt="Sk Sohel - Banner" style="width:100%; max-width:1100px; border-radius:18px; object-fit:cover; box-shadow: 0 14px 40px rgba(0,217,255,0.16);" />
 
 <br/><br/>
 
-# Hi, I'm <span style="color:#00D9FF">Sk Sohel</span> 👋  
+# Hi, I'm <span style="color:#00D9FF">Sk Sohel</span> 👋
 ### Aspiring AI/ML Engineer • Deep Learning • Computer Vision • MLOps
-
 <br/>
 
 <!-- Live Typing -->
@@ -23,14 +22,12 @@
 </p>
 
 ---
-
 # 🛠️ **Tech Stack & Tools**
 <p>
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,keras,sklearn,pandas,numpy,matplotlib,fastapi,streamlit,docker,aws,git,linux,kubernetes,hadoop,spark,huggingface,postgres,mongodb,mysql,java,c,cpp,vscode,postman&perline=10&theme=dark" />
 </p>
 
 ---
-
 # 🔭 **Currently Exploring**
 <p>
   <img src="https://img.shields.io/badge/Deep_Learning-TensorFlow-00D9FF?style=for-the-badge&logo=tensorflow" />
@@ -51,20 +48,16 @@
 </p>
 
 ---
-
 # 🏆 **Achievements**
 <div style="font-size: 18px; line-height: 1.8;">
-
 🥇 **Top 12 — COMSYS Hackathon (IIT Mandi)**  
 🏅 **Top 15 — Smart India Hackathon 2023**  
 🌏 **90.6% — China Exchange Program**  
 🏊 **District-level Swimming Champion**  
 ⚽ **CSE Football Team Captain**
-
 </div>
 
 ---
-
 # 🤝 **Connect With Me**
 <p>
   <a href="https://linkedin.com/in/sk-sohel-944b98249" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -75,14 +68,9 @@
 </p>
 
 ---
-
 # 👀 Profile Views
 <img src="https://komarev.com/ghpvc/?username=sksohel27&label=Profile%20Views&color=00D9FF&style=for-the-badge" />
 
----
-
 <br/>
-
 ### ❤️ Built with Passion & ☕ — Let's build the future together.
-
 </div>
