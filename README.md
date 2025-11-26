@@ -1,72 +1,99 @@
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>SK Sohel — Profile</title>
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&display=swap" rel="stylesheet">
-  <style>
-    :root{
-      --accent: #00D9FF;
-      --bg: #0b0f14;
-      --card: #071018;
-      --text: #dbe9ee;
-      --muted: #9fb9c4;
-      --radius: 18px;
-    }
-    *{box-sizing:border-box}
-    html,body{height:100%;margin:0;background:linear-gradient(180deg,#020407 0%, #071025 100%);font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,'Helvetica Neue',Arial; color:var(--text)}
-    .wrap{display:flex;align-items:center;justify-content:center;padding:48px 16px}
-    .card{width:100%;max-width:980px;background:linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));border-radius:var(--radius);padding:28px;border:1px solid rgba(255,255,255,0.03);box-shadow:0 14px 40px rgba(0,217,255,0.06)}
-    .banner{border-radius:12px;overflow:hidden;display:block;margin:0 auto;width:100%;height:260px;object-fit:cover}
-    .center{text-align:center;margin-top:18px}
-    h1{font-size:28px;margin:10px 0 6px;font-weight:800}
-    h1 span{color:var(--accent)}
-    h3{font-size:15px;margin:6px 0 14px;font-weight:600;color:var(--muted)}
-    .typing{display:block;margin:14px auto 22px}
-    .badges{display:flex;gap:10px;justify-content:center;flex-wrap:wrap;margin-bottom:18px}
-    .badge{display:inline-flex;align-items:center;padding:8px 12px;border-radius:999px;background:linear-gradient(90deg, rgba(0,217,255,0.08), rgba(0,217,255,0.02));border:1px solid rgba(0,217,255,0.06);font-weight:600;color:var(--accent)}
-    .icons{display:flex;justify-content:center;margin-top:8px}
-    .note{color:var(--muted);font-size:13px;text-align:center;margin-top:18px}
-    /* Responsive */
-    @media (max-width:600px){
-      .banner{height:180px}
-      h1{font-size:22px}
-    }
-    /* Small utility */
-    a.inline-link{color:var(--accent);text-decoration:none}
-  </style>
-</head>
-<body>
-  <div class="wrap">
-    <article class="card" role="article" aria-label="SK Sohel profile card">
-      <img src="https://raw.githubusercontent.com/sksohel27/sksohel27/main/Picsart_25-11-26_21-40-55-117.jpg" alt="SK Sohel banner" class="banner"/>
+<div align="center">
 
-      <div class="center">
-        <h1>Hi, I'm <span>SK Sohel</span> 👋</h1>
-        <h3>Aspiring AI/ML Engineer • Deep Learning • Computer Vision • MLOps</h3>
+<!-- Banner -->
+<img src="https://raw.githubusercontent.com/sksohel27/sksohel27/main/Picsart_25-11-26_21-40-55-117.jpg" alt="Sk Sohel" style="width:100%; max-width:900px; border-radius:18px; object-fit:cover; box-shadow: 0 14px 40px rgba(0,217,255,0.16);" />
 
-        <!-- Live typing (Readme-typing-svg) -->
-        <div class="typing">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=820&lines=YOLOv8+Multi-Task+Learning+94%25;Federated+Learning+%F0%9F%8C%A8+Flower;Behavioral+Biometrics+Research;Always+learning,+always+building!" alt="typing svg" aria-hidden="true"/>
-        </div>
+<br/><br/>
 
-        <!-- Status badges (images from shields.io) -->
-        <div class="badges" aria-hidden="false">
-          <img class="badge" src="https://img.shields.io/badge/Status-Open%20to%20Work-00D9FF?style=for-the-badge&logo=github" alt="Status Open to Work"/>
-          <img class="badge" src="https://img.shields.io/badge/Location-Dankuni%2C%20West%20Bengal-00D9FF?style=for-the-badge" alt="Location"/>
-          <img class="badge" src="https://img.shields.io/badge/Pronouns-he%2Fhim-00D9FF?style=for-the-badge" alt="Pronouns"/>
-        </div>
+# Hi, I'm <span style="color:#00D9FF">Sk Sohel</span> 👋  
+### Aspiring AI/ML Engineer • Deep Learning • Computer Vision • MLOps
 
-        <!-- Optional skill icons (skillicons.dev) -->
-        <div class="icons">
-          <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,keras,sklearn,pandas,numpy,matplotlib,fastapi,streamlit,docker,aws,git&perline=7&theme=dark" alt="skill icons"/>
-        </div>
+<br/>
 
-        <p class="note">If you want this as Markdown for a GitHub README or need tweaks (colors, fonts, icons), tell me which format and I'll adapt it.</p>
-      </div>
-    </article>
+<!-- Live Typing -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=820&lines=YOLOv8+Multi-Task+Learning+94%25;Federated+Learning+%F0%9F%8C%A8+Flower;Behavioral+Biometrics+Research;Always+learning,+always+building!" />
+
+<br/><br/>
+
+<!-- Status Badges -->
+<p>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00D9FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Dankuni%2C%20West%20Bengal-00D9FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pronouns-he%2Fhim-00D9FF?style=for-the-badge" />
+</p>
+
+</div>
+
+<!-- Two-column section: Tech stack (left) + GIF (right) -->
+<div style="display:flex; gap:28px; align-items:flex-start; justify-content:center; flex-wrap:wrap; margin: 18px 0;">
+
+  <!-- Left column: Tech Stack & Tools -->
+  <div style="flex: 1 1 520px; max-width:620px; min-width:300px;">
+    <h3 style="margin-bottom:6px;">🛠️ <strong>Tech Stack & Tools</strong></h3>
+    <p>
+      <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,keras,sklearn,pandas,numpy,matplotlib,fastapi,streamlit,docker,aws,git,linux,kubernetes,hadoop,spark,huggingface,postgres,mongodb,mysql,java,c,cpp,vscode,postman&perline=10&theme=dark" alt="tech icons" />
+    </p>
+
+    <hr style="border:none; height:1px; background:rgba(0,217,255,0.12); margin:12px 0;" />
+
+    <h4 style="margin:4px 0;">🔭 <strong>Currently Exploring</strong></h4>
+    <p style="margin:6px 0 12px 0;">
+      <img src="https://img.shields.io/badge/Deep_Learning-TensorFlow-00D9FF?style=for-the-badge&logo=tensorflow" />
+      <img src="https://img.shields.io/badge/Deep_Learning-PyTorch-00D9FF?style=for-the-badge&logo=pytorch" />
+      <img src="https://img.shields.io/badge/Transformers-HuggingFace-00D9FF?style=for-the-badge&logo=huggingface" />
+      <img src="https://img.shields.io/badge/Vision_Transformers-ViT-00D9FF?style=for-the-badge&logo=opencv" /><br/>
+      <img src="https://img.shields.io/badge/Object_Detection-YOLOv8-00D9FF?style=for-the-badge&logo=github" />
+      <img src="https://img.shields.io/badge/Dataset_Creation-Real%20%2B%20Synthetic-00D9FF?style=for-the-badge&logo=databricks" /><br/>
+      <img src="https://img.shields.io/badge/Big_Data-Hadoop-00D9FF?style=for-the-badge&logo=apachehadoop" />
+      <img src="https://img.shields.io/badge/Big_Data-Apache_Spark-00D9FF?style=for-the-badge&logo=apachespark" />
+      <img src="https://img.shields.io/badge/Streaming-Apache_Kafka-00D9FF?style=for-the-badge&logo=apachekafka" /><br/>
+      <img src="https://img.shields.io/badge/Federated_Learning-Flower-00D9FF?style=for-the-badge&logo=flower" />
+      <img src="https://img.shields.io/badge/TF-Federated-00D9FF?style=for-the-badge&logo=tensorflow" /><br/>
+      <img src="https://img.shields.io/badge/MLOps-Docker-00D9FF?style=for-the-badge&logo=docker" />
+      <img src="https://img.shields.io/badge/Orchestration-Kubernetes-00D9FF?style=for-the-badge&logo=kubernetes" />
+      <img src="https://img.shields.io/badge/Tracking-MLflow-00D9FF?style=for-the-badge&logo=mlflow" />
+      <img src="https://img.shields.io/badge/Data_Versioning-DVC-00D9FF?style=for-the-badge&logo=dvc" />
+    </p>
   </div>
-</body>
-</html>
+
+  <!-- Right column: GIF -->
+  <div style="flex: 0 1 320px; min-width:220px; display:flex; align-items:center; justify-content:center;">
+    <div style="border-radius:12px; overflow:hidden; box-shadow: 0 12px 30px rgba(0,0,0,0.12);">
+      <img src="https://raw.githubusercontent.com/sksohel27/sksohel27/main/Untitled%20video%20-%20Made%20with%20Clipchamp.gif" alt="Clipchamp GIF" style="display:block; width:320px; max-width:80vw; height:auto;"/>
+    </div>
+  </div>
+
+</div>
+
+---
+
+# 🏆 **Achievements**
+<div style="font-size: 18px; line-height: 1.8;">
+
+🥇 **Top 12 — COMSYS Hackathon (IIT Mandi)**  
+🏅 **Top 15 — Smart India Hackathon 2023**  
+🌏 **90.6% — China Exchange Program**  
+🏊 **District-level Swimming Champion**  
+⚽ **CSE Football Team Captain**
+
+</div>
+
+---
+
+# 🤝 **Connect With Me**
+<p>
+  <a href="https://linkedin.com/in/sk-sohel-944b98249" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:sksohelofficial27@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/_p_ic_ku_27_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://facebook.com/sk.sohel.165225" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://drive.google.com/file/d/1J1V6vbuooman9c5WBrB3tK4vkvtcSgYk/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-00D9FF?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
+</p>
+
+---
+
+# 👀 Profile Views
+<p align="center"><img src="https://komarev.com/ghpvc/?username=sksohel27&label=Profile%20Views&color=00D9FF&style=for-the-badge" /></p>
+
+---
+
+<p align="center">❤️ Built with Passion & ☕ — Let's build the future together.</p>
