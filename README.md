@@ -1,12 +1,6 @@
 # Hi 👋, I'm Sk Sohel
 ## 🚀 AI/ML Engineer | Deep Learning & Computer Vision | Crafting Intelligent Real-World Systems
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sksohel27&label=Profile%20views&color=0e75b6&style=flat" alt="sksohel27" />
-  <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=sksohel27&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="sksohel27" />
-</div>
-
 ---
 
 ### 🌟 **Currently Diving Into**
