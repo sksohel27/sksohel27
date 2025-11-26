@@ -27,14 +27,6 @@
 
 ---
 
-## 📈 GitHub Stats & Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sksohel27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sksohel27&layout=compact&theme=tokyonight&hide_border=true" height="180px" />
-</p>
-
----
-
 ## 🔭 Currently Diving Into
 <p>
   <img src="https://img.shields.io/badge/Deep_Learning-Technologies-00D9FF?style=for-the-badge&logo=pytorch" />
