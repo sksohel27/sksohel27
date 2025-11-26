@@ -1,5 +1,5 @@
 # Hi 👋, I'm Sk Sohel
-## 🚀 AI/ML Engineer | Deep Learning & Computer Vision | Crafting Intelligent Real-World Systems
+## 🚀 A Aspiring AI/ML Engineer | Deep Learning & Computer Vision | Crafting Intelligent Real-World Systems
 
 ---
 
@@ -7,7 +7,7 @@
 - 🔒 **Federated Learning** (Flower, TensorFlow Federated)
 - 🎯 **Advanced Multi-Task Learning**
 - ⚙️ **MLOps Mastery**
-
+https://github.com/sksohel27/sksohel27/blob/main/README.md
 ### 🤝 **Open to Collab On**
 - 🔒 Federated Learning Experiments
 - 🎯 Multi-Task Learning Frameworks
