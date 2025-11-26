@@ -59,16 +59,4 @@ Explore my repo of cutting-edge AI/ML builds: [github.com/sksohel27](https://git
 
 ---
 
-## 📈 **GitHub Galaxy**
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sksohel27&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&border_color=30363d&title_color=58a6ff" alt="Top Languages" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=sksohel27&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=0d1117&border_color=30363d&title_color=58a6ff" alt="GitHub Stats" width="49%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sksohel27&theme=radical&hide_border=true&background=0d1117&border=30363d&dates=58a6ff" alt="Streak Stats" />
-</div>
-
----
-
 *🔥 Built with passion, powered by code. Let's build the future together!*
