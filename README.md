@@ -1,27 +1,30 @@
 <div align="center">
 
-<!-- MAXIMUM SIZE Animated GIF Banner -->
-<img src="https://github.com/sksohel27/sksohel27/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp.gif?raw=true" 
-     alt="Sk Sohel - AI/ML Engineer" 
-     style="width:100%; max-width:1800px !important; border-radius:28px; object-fit:cover; box-shadow: 0 25px 70px rgba(0,217,255,0.35); border: 5px solid #00D9FF;" />
+<!-- MAXIMUM SIZE Animated GIF Banner – now with matching neon glow -->
+<img src="https://github.com/sksohel27/sksohel27/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp.gif?raw=true"
+     alt="Sk Sohel - AI/ML Engineer"
+     style="width:100%; max-width:1800px !important; border-radius:28px; object-fit:cover; 
+            box-shadow: 0 0 40px #D600FF, 0 0 80px #8A2BE2; 
+            border: 5px solid #D600FF; 
+            outline: 3px solid #00FFFF;" />
 
 <br/><br/>
 
-# Hi, I'm <span style="color:#00D9FF">Sk Sohel</span>
-### Aspiring AI/ML Engineer • Deep Learning • Computer Vision • MLOps
+# Hi, I'm <span style="color:#D600FF; text-shadow: 0 0 20px #FF33E8;">Sk Sohel</span>
+### <span style="color:#00FFFF;">Aspiring AI/ML Engineer • Deep Learning • Computer Vision • MLOps</span>
 
 <br/>
 
-<!-- Live Typing -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3800&pause=1000&color=00D9FF&center=true&vCenter=true&width=950&lines=YOLOv8+Multi-Task+Learning+94%25+mAP;Federated+Learning+with+Flower;Behavioral+Biometrics+Research;Production-ready+AI+Systems!" />
+<!-- Live Typing – Neon Purple & Cyan -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=29&duration=3500&pause=800&color=D600FF&background=0B0B2D00&center=true&vCenter=true&width=1000&lines=YOLOv8+Multi-Task+94%25+mAP;Federated+Learning+with+Flower;Behavioral+Biometrics+Auth;Production-Ready+AI+Systems;Building+the+Future+of+AI!" />
 
 <br/><br/>
 
-<!-- Status Badges -->
+<!-- Status Badges – Neon Theme -->
 <p>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00D9FF?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-Dankuni%2C%20West%20Bengal-00D9FF?style=for-the-badge&logo=map&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pronouns-he%2Fhim-00D9FF?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-D600FF?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=1E0047" />
+  <img src="https://img.shields.io/badge/Location-Dankuni%2C%20West%20Bengal-8A2BE2?style=for-the-badge&logo=map&logoColor=white&labelColor=1E0047" />
+  <img src="https://img.shields.io/badge/Pronouns-he%2Fhim-00FFFF?style=for-the-badge&logo=prisma&logoColor=black&labelColor=4B0082" />
 </p>
 
 ---
@@ -33,12 +36,12 @@
 ---
 # Currently Exploring
 <p>
-  <img src="https://img.shields.io/badge/Deep_Learning-TensorFlow-00D9FF?style=for-the-badge&logo=tensorflow" />
-  <img src="https://img.shields.io/badge/Deep_Learning-PyTorch-00D9FF?style=for-the-badge&logo=pytorch" />
-  <img src="https://img.shields.io/badge/Transformers-HuggingFace-00D9FF?style=for-the-badge&logo=huggingface" />
-  <img src="https://img.shields.io/badge/YOLOv8-Ultralytics-00D9FF?style=for-the-badge&logo=yolo" />
-  <img src="https://img.shields.io/badge/Federated_Learning-Flower-00D9FF?style=for-the-badge&logo=flower" />
-  <img src="https://img.shields.io/badge/MLOps-MLflow%20%7C%20DVC-00D9FF?style=for-the-badge&logo=mlflow" />
+  <img src="https://img.shields.io/badge/TensorFlow-Deep%20Learning-D600FF?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1E0047" />
+  <img src="https://img.shields.io/badge/PyTorch-Deep%20Learning-FF33E8?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=4B0082" />
+  <img src="https://img.shields.io/badge/HuggingFace-Transformers-8A2BE2?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=1E0047" />
+  <img src="https://img.shields.io/badge/YOLOv8-Ultralytics-D600FF?style=for-the-badge&logo=yolo&logoColor=white&labelColor=1E0047" />
+  <img src="https://img.shields.io/badge/Flower-Federated%20Learning-00FFFF?style=for-the-badge&logo=flower&logoColor=black&labelColor=4B0082" />
+  <img src="https://img.shields.io/badge/MLOps-MLflow%20%7C%20DVC-FF33E8?style=for-the-badge&logo=mlflow&logoColor=white&labelColor=1E0047" />
 </p>
 
 ---
@@ -46,27 +49,29 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/sk-sohel-944b98249" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E0047" alt="LinkedIn"/>
   </a>&nbsp;&nbsp;
   <a href="mailto:sksohelofficial27@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D600FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1E0047" alt="Gmail"/>
   </a>&nbsp;&nbsp;
   <a href="https://instagram.com/_p_ic_ku_27_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-FF33E8?style=for-the-badge&logo=instagram&logoColor=white&labelColor=4B0082" alt="Instagram"/>
   </a>&nbsp;&nbsp;
   <a href="https://facebook.com/sk.sohel.165225" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+    <img src="https://img.shields.io/badge/Facebook-00FFFF?style=for-the-badge&logo=facebook&logoColor=black&labelColor=4B0082" alt="Facebook"/>
   </a>&nbsp;&nbsp;
   <a href="https://drive.google.com/file/d/1J1V6vbuooman9c5WBrB3tK4vkvtcSgYk/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-00D9FF?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
+    <img src="https://img.shields.io/badge/Resume-D600FF?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=1E0047" alt="Resume"/>
   </a>
 </p>
 
 ---
 # Profile Views
-<img src="https://komarev.com/ghpvc/?username=sksohel27&label=Profile%20Views&color=00D9FF&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=sksohel27&label=Profile%20Views&color=D600FF&style=for-the-badge" />
 
 <br/>
-<h2>Built with Passion & Coffee — Let’s build the future of AI together!</h2>
+<h2 style="color:#D600FF; text-shadow: 0 0 30px #FF33E8;">
+  Built with Passion & Coffee — Let’s build the future of AI together!
+</h2>
 
 </div>
