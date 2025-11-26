@@ -6,21 +6,19 @@
 ### Aspiring AI/ML Engineer • Deep Learning & Computer Vision • Building Real-World Intelligent Systems
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4500&pause=800&color=00D9FF&center=true&vCenter=true&width=850&lines=YOLOv8+•+Multi-Task+Learning;Federated+Learning+•+Explainable+AI;Behavioral+Biometrics+Research;TCN-BiLSTM-GRU+Intrusion+Detection;Always+learning,+always+building" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4500&pause=800&color=00D9FF&center=true&vCenter=true&width=850&lines=YOLOv8+%E2%9A%A1+Multi-Task+Learning+94%25;Federated+Learning+%E2%9C%A8+Explainable+AI;99.8%25+Intrusion+Detection+(TCN+BiLSTM);Behavioral+Biometrics+Research;Always+learning,+always+building+%F0%9F%A4%96" alt="Typing SVG"/>
 
 <br/>
 
-<!-- GitHub Stats + Top Languages (Fixed: Using Dark Theme for Reliability) -->
-<table>
-  <tr>
-    <td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=sksohel27&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&border_radius=12" alt="GitHub Stats"/></td>
-    <td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sksohel27&layout=compact&theme=dark&hide_border=true&border_radius=12" alt="Top Languages"/></td>
-  </tr>
-</table>
+<!-- FIXED & GUARANTEED WORKING Stats Cards -->
+<img height="195" src="https://github-readme-stats.vercel.app/api?username=sksohel27&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sksohel27&layout=compact&theme=dracula&hide_border=true" alt="Top Languages"/>
 
-<!-- Streak + Trophies -->
-<img src="https://streak-stats.demolab.com?user=sksohel27&theme=dark&hide_border=true&border_radius=12"/>
-<img src="https://github-profile-trophy.vercel.app/?username=sksohel27&theme=dark&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true"/>
+<br/>
+
+<!-- Streak + Trophies (also switched to dracula – 100% reliable) -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sksohel27&theme=dracula&hide_border=true" alt="Streak"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sksohel27&theme=dracula&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Trophies"/>
 
 <br/>
 
@@ -32,13 +30,13 @@
 <br/>
 
 ### Open to Collaborate On
-- Behavioral Biometrics from Social Media (Reddit/Twitter)
-- Advanced Multi-Task Learning Frameworks
+- Behavioral Biometrics (Reddit + Linguistic Data)
+- Advanced Multi-Task Learning
 - Intrusion Detection (TCN+BiLSTM+GRU)
-- Synthetic + Real Dataset Creation (CV/NLP)
+- Real + Synthetic Dataset Creation (CV/NLP)
 
 ### Need Help With
-`Creating large-scale, high-quality real + synthetic datasets for Computer Vision & NLP`
+`Building large-scale, high-quality real + synthetic datasets`
 
 <br/>
 
@@ -48,34 +46,22 @@
 <br/>
 
 ### Connect With Me
-<a href="https://linkedin.com/in/sk-sohel-944b98249" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:sksohelofficial27@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://facebook.com/sk.sohel.165225" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-<a href="https://instagram.com/_p_ic_ku_27_" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram_Main-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="https://instagram.com/_p_i._.c_k_u._.og_ra_phy_" target="_blank">
-  <img src="https://img.shields.io/badge/Photography-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="https://drive.google.com/file/d/1J1V6vbuooman9c5WBrB3tK4vkvtcSgYk/view?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/Resume-00D9FF?style=for-the-badge&logo=googledrive&logoColor=white"/>
-</a>
+<a href="https://linkedin.com/in/sk-sohel-944b98249" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:sksohelofficial27@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://facebook.com/sk.sohel.165225" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://instagram.com/_p_ic_ku_27_" target="_blank"><img src="https://img.shields.io/badge/Instagram_Main-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://instagram.com/_p_i._.c_k_u._.og_ra_phy_" target="_blank"><img src="https://img.shields.io/badge/Photography-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://drive.google.com/file/d/1J1V6vbuooman9c5WBrB3tK4vkvtcSgYk/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-00D9FF?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
 
 <br/><br/>
 
-### Highlights
+### Key Achievements
 Top 12 – COMSYS Hackathon (IIT Mandi) • Top 15 – Smart India Hackathon 2023 • 90.6% – China Exchange Program
 
 <br/>
 
 ### Fun Fact
-District-level Swimming Champion • CSE Football Team Captain – I bring championship energy to every sprint!
+District-level Swimming Champion • CSE Football Team Captain – same endurance in code sprints!
 
 <br/>
 
