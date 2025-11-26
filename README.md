@@ -61,15 +61,6 @@
 
 ---
 
-## 🧭 Roadmap (What I’m Building Next)
-- Improve YOLOv8 multi-task pipeline (visual explanations + uncertainty)
-- Deep Learning expansion → Transformers, ViT, LLM basics
-- Build high-quality CV & NLP datasets (real + synthetic)
-- Research on Explainable Behavioral Biometrics (Reddit + Linguistics)
-- Federated Learning prototype with Flower
-
----
-
 ## 🏆 Achievements & Highlights
 - 🥇 Top 12 — COMSYS Hackathon (IIT Mandi)  
 - 🏅 Top 15 — Smart India Hackathon 2023  
