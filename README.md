@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- MAX SIZE Banner with your new color theme -->
-<img src="[https://github.com/sksohel27/sksohel27/blob/main/Picsart_25-11-26_21-40-55-117.jpg"
+<img src="https://github.com/sksohel27/sksohel27/blob/main/Picsart_25-11-26_21-40-55-117.jpg"
      alt="Sk Sohel - AI/ML Engineer"
      style="width:100%; max-width:1800px !important; border-radius:28px; object-fit:cover; 
             box-shadow: 0 25px 80px rgba(138, 43, 226, 0.5); 
