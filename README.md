@@ -39,42 +39,6 @@
   <img src="https://img.shields.io/badge/Federated_Learning-Flower-00D9FF?style=for-the-badge&logo=flower" />
   <img src="https://img.shields.io/badge/MLOps-MLflow%20%7C%20DVC-00D9FF?style=for-the-badge&logo=mlflow" />
 </p>
-
----
-# 🏆 **Notable Achievements**
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <h3><span style="font-size:42px;">1st Place</span></h3>
-      <b>Top 12 — COMSYS Hackathon</b><br><small>IIT Mandi</small>
-    </td>
-    <td align="center" width="33%">
-      <h3><span style="font-size:42px;">15th Place</span></h3>
-      <b>Smart India Hackathon 2023</b><br><small>National Level</small>
-    </td>
-    <td align="center" width="33%">
-      <h3><span style="font-size:42px;">90.6%</span></h3>
-      <b>China Exchange Program</b><br><small>International Selection</small>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <h3><span style="font-size:42px;">Swimming</span></h3>
-      <b>District-level Champion</b>
-    </td>
-    <td align="center">
-      <h3><span style="font-size:42px;">Captain</span></h3>
-      <b>CSE Football Team</b><br><small>College Leadership</small>
-    </td>
-    <td align="center">
-      <!-- Empty for spacing -->
-    </td>
-  </tr>
-</table>
-
-<br/>
-
 ---
 # 🤝 **Connect With Me**
 <p>
