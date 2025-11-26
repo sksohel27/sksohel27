@@ -15,52 +15,41 @@
 
 <!-- Quick badges -->
 <p>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00D9FF?style=for-the-badge&logo=awesome" alt="Open to work"/>
-  <img src="https://img.shields.io/badge/Location-Dankuni%2C%20West%20Bengal-00D9FF?style=for-the-badge&logo=maps" alt="Location"/>
-  <img src="https://img.shields.io/badge/Pronouns-he%2Fhim-00D9FF?style=for-the-badge" alt="Pronouns"/>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00D9FF?style=for-the-badge&logo=awesome" />
+  <img src="https://img.shields.io/badge/Location-Dankuni%2C%20West%20Bengal-00D9FF?style=for-the-badge&logo=maps" />
+  <img src="https://img.shields.io/badge/Pronouns-he%2Fhim-00D9FF?style=for-the-badge" />
 </p>
 
 <!-- Skill badges -->
 <p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,keras,sklearn,pandas,numpy,matplotlib,fastapi,streamlit,docker,aws,git&perline=7&theme=dark" alt="Tech icons"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-<p align="center">
-  <!-- Replace images & links with yours -->
-  <a href="https://github.com/sksohel27/your-project-1" target="_blank">
-    <img src="https://raw.githubusercontent.com/sksohel27/sksohel27/main/assets/project1.png" alt="Project 1" width="280" style="border-radius:10px; box-shadow: 0 8px 20px rgba(0,0,0,0.12);"/>
-  </a>
-  <a href="https://github.com/sksohel27/your-project-2" target="_blank" style="margin-left:14px">
-    <img src="https://raw.githubusercontent.com/sksohel27/sksohel27/main/assets/project2.png" alt="Project 2" width="280" style="border-radius:10px; box-shadow: 0 8px 20px rgba(0,0,0,0.12);"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,keras,sklearn,pandas,numpy,matplotlib,fastapi,streamlit,docker,aws,git&perline=7&theme=dark" />
 </p>
 
 ---
 
 ## 📈 GitHub Stats & Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sksohel27&show_icons=true&theme=vision-friendly-dark&count_private=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sksohel27&layout=compact&theme=vision-friendly-dark" alt="Top languages" style="margin-left:12px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sksohel27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sksohel27&layout=compact&theme=tokyonight&hide_border=true" height="180px" />
 </p>
 
 ---
 
 ## 🔭 Currently Diving Into
 <p>
-  <img src="https://img.shields.io/badge/Federated_Learning-Flower%20•%20TF_Federated-00D9FF?style=for-the-badge&logo=tensorflow" />
-  <img src="https://img.shields.io/badge/Multi_Task_Learning-94%25+Accuracy-00D9FF?style=for-the-badge&logo=keras" />
-  <img src="https://img.shields.io/badge/Intrusion_Detection-99.8%25+Accuracy-00D9FF?style=for-the-badge&logo=security" />
+  <img src="https://img.shields.io/badge/Deep_Learning-Technologies-00D9FF?style=for-the-badge&logo=pytorch" />
+  <img src="https://img.shields.io/badge/Computer_Vision-OpenCV%20•%20YOLOv8-00D9FF?style=for-the-badge&logo=opencv" />
+  <img src="https://img.shields.io/badge/Dataset_Creation-Real+Synthetic-00D9FF?style=for-the-badge" />
 </p>
 
 ---
 
-## 🧭 Roadmap (what I'll build next)
-- Short-term: Improve YOLOv8 multi-task pipeline → add uncertainty estimates + visual explanations (Grad-CAM).
-- Medium-term: Federated Learning prototype with Flower for cross-device training.
-- Long-term: Publish an explainable behavioral biometrics dataset (Reddit + linguistic features).
+## 🧭 Roadmap (What I’m Building Next)
+- Improve YOLOv8 multi-task pipeline (visual explanations + uncertainty)
+- Deep Learning expansion → Transformers, ViT, LLM basics
+- Build high-quality CV & NLP datasets (real + synthetic)
+- Research on Explainable Behavioral Biometrics (Reddit + Linguistics)
+- Federated Learning prototype with Flower
 
 ---
 
@@ -68,11 +57,11 @@
 - 🥇 Top 12 — COMSYS Hackathon (IIT Mandi)  
 - 🏅 Top 15 — Smart India Hackathon 2023  
 - 🌏 90.6% — China Exchange Program  
-- 🏊 District-level Swimming Champion • ⚽ CSE Football Team Captain
+- 🏊 District-level Swimming Champion • ⚽ CSE Football Team Captain  
 
 ---
 
-## ✉️ Connect with me
+## ✉️ Connect with Me
 <p>
   <a href="https://linkedin.com/in/sk-sohel-944b98249" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:sksohelofficial27@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -83,21 +72,9 @@
 
 ---
 
-## 📚 Publications / Docs / Demos
-- Add links to demo videos (YouTube), papers, or google drive notebooks here.
-- Embed a short demo GIF (keep file size < 2 MB for README).
-
----
-
-## 🧾 Quick contact card
 <p align="center">
-  <img alt="visitors" src="https://komarev.com/ghpvc/?username=sksohel27&label=Profile%20Views&color=00D9FF&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=sksohel27&label=Profile%20Views&color=00D9FF&style=for-the-badge" />
 </p>
-
----
-
-## 🤝 Want to collaborate?
-Open to collabs on behavioral biometrics, dataset creation, multi-task learning, and CV projects. DM on LinkedIn or open an issue in any repo.
 
 ---
 
