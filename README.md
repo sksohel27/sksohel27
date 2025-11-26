@@ -13,16 +13,16 @@
 <!-- Stats Cards Side-by-Side -->
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=sksohel27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=12" alt="GitHub Stats"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sksohel27&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top Languages"/></td>
+    <td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=sksohel27&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&border_radius=12" alt="GitHub Stats"/></td>
+    <td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sksohel27&layout=compact&theme=radical&hide_border=true&border_radius=12" alt="Top Languages"/></td>
   </tr>
 </table>
 
 <!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=sksohel27&theme=tokyonight&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=sksohel27&theme=radical&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 
 <!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=sksohel27&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sksohel27&theme=radical&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Trophies"/>
 
 <br/>
 
@@ -55,6 +55,15 @@
 </a>
 <a href="mailto:sksohelofficial27@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.facebook.com/share/1DDKSJHZCB/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+<a href="https://www.instagram.com/_p_ic_ku_27_?igsh=MWZ6cG1iNG15ZXR2bw==" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Profile"/>
+</a>
+<a href="https://www.instagram.com/_p_ic_ku_27_?igsh=MWZ6cG1iNG15ZXR2bw==" target="_blank">
+  <img src="https://img.shields.io/badge/Photography-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Photography"/>
 </a>
 <a href="https://drive.google.com/file/d/1J1V6vbuooman9c5WBrB3tK4vkvtcSgYk/view?usp=sharing">
   <img src="https://img.shields.io/badge/Resume-00D9FF?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
