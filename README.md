@@ -27,7 +27,7 @@
 ---
 # Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,angular,typescript,python,tensorflow,pytorch,opencv,keras,sklearn,pandas,numpy,matplotlib,fastapi,streamlit,docker,aws,git,linux,kubernetes,hadoop,spark,huggingface,postgres,mongodb,mysql,java,c,cpp,vscode,postman&perline=12&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,angular,typescript,python,tensorflow,pytorch,opencv,keras,sklearn,pandas,numpy,matplotlib,fastapi,streamlit,colab,docker,aws,git,linux,kubernetes,hadoop,spark,huggingface,postgres,mongodb,mysql,java,c,cpp,vscode,postman&perline=12&theme=dark" />
 </p>
 ---
 # Currently Exploring
