@@ -36,7 +36,6 @@
   <img src="https://img.shields.io/badge/Deep_Learning-TensorFlow-1E3A8A?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4B2B?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Transformers-HuggingFace-F59E0B?style=for-the-badge&logo=huggingface&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLOv8-Ultralytics-0F766E?style=for-the-badge&logo=yolo&logoColor=white" />
   <img src="https://img.shields.io/badge/Federated_Learning-Flower-1E3A8A?style=for-the-badge&logo=flower&logoColor=white" />
   <img src="https://img.shields.io/badge/MLOps-MLflow%20%7C%20DVC-F59E0B?style=for-the-badge&logo=mlflow&logoColor=white" />
 </p>
