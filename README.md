@@ -63,7 +63,7 @@
 
 ---
 # Profile Views
-<img src="https://visitcount.itsvg.in/api?id=sksohel27&icon=5&color=3" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc?id=sksohel27" alt="Profile Views"/>
 
 <br/>
 <h2 style="color:#1E3A8A; text-shadow: 0 0 30px #0F766E;">
