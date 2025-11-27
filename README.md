@@ -63,7 +63,7 @@
 
 ---
 # Profile Views
-<img src="https://komarev.com/ghpvc?id=sksohel27&style=flat-square&color=blue&label=Profile%20Views" alt="Profile Views" />
+<img src="https://github-profile-views-counter.vercel.app/ghpvc?id=sksohel27&style=for-the-badge" alt="Profile Views" />
 <br/>
 <h2 style="color:#1E3A8A; text-shadow: 0 0 30px #0F766E;">
   Built with Passion & Coffee — Ready to push AI boundaries ⚡
